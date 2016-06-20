@@ -7,5 +7,5 @@ How to Run
 4.) In the command prompt enter 'gem install capybara'
 5.) Download and install Firefox v33 (please Capybara will only work in Firefox v33!)
 6.) Download the Prime Number Site repository to your machine
-7.) In the command prompt navigate to the PrimeNumberSite folder and enter cucumber features/prime_number_url.features
+7.) In the command prompt navigate to the PrimeNumberSite folder and enter cucumber features/prime_number_url.feature
 8.) The feature should run using Firefox and all tests should pass
